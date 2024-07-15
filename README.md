@@ -18,3 +18,7 @@ To get wikipedia data
 
 To get funny jokes
 `pip install pyjokes`
+
+### Install distutils using pip
+If you have pip installed, you can try reinstalling distutils
+`pip install --upgrade setuptools`
